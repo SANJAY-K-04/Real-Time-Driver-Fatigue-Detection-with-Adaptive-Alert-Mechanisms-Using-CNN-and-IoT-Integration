@@ -4,7 +4,7 @@ This project aims to **detect driver fatigue in real-time** and prevent accident
 
 ---
 
-## Schematic 
+## Pictures of the proposed system
 <p align="center">
   <img src="https://github.com/SANJAY-K-04/Real-Time-Driver-Fatigue-Detection-with-Adaptive-Alert-Mechanisms-With-IoT-Integration/blob/main/top.jpg?raw=true" width="500" alt="Top View"><br>
   <b>TOP VIEW</b>
